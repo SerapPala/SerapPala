@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Modern-WebSite](https://github.com/SerapPala/Modern-WebSite)
 
-- 🌱 I’m currently learning **Tailwind CSS, Typescript**
+- 🌱 I’m currently learning **MERNG
 
 - 💬 Ask me about **React JS, Next.js**
 
